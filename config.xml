@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bg_daily_checker_conf version="3" >
+  <category name="common" >
+    <param name="random_time_median" value="360" />
+    <param name="random_time_range" value="240" />
+  </category>
+  <category name="patch_checker" >
+    <param name="expiration_hours" value="2160" />
+  </category>
+</bg_daily_checker_conf>
